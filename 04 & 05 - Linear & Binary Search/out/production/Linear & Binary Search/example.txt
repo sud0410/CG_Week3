@@ -1,0 +1,4 @@
+Hello, this is a test file.
+This file is used to demonstrate Java file reading.
+Each line you see here will be printed by the program.
+Enjoy learning Java!
